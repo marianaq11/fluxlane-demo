@@ -4,7 +4,7 @@ A single-page, fully responsive concept landing page built to demonstrate front-
 
 **Fluxlane is a fictional product.** This is a design/development exercise, not a real company or SaaS.
 
-[Live demo →]([#](https://marianaq11.github.io/fluxlane-demo/))
+[Live demo →]([https://marianaq11.github.io/fluxlane-demo/](https://marianaq11.github.io/fluxlane-demo/))
 ## What it demonstrates
 
 - Responsive, mobile-first layout built with plain CSS (Grid + Flexbox, no framework)
