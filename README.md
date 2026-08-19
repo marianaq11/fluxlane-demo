@@ -4,8 +4,7 @@ A single-page, fully responsive concept landing page built to demonstrate front-
 
 **Fluxlane is a fictional product.** This is a design/development exercise, not a real company or SaaS.
 
-[Live demo →](#) *(update this link once deployed)*
-
+[Live demo →]([#](https://marianaq11.github.io/fluxlane-demo/))
 ## What it demonstrates
 
 - Responsive, mobile-first layout built with plain CSS (Grid + Flexbox, no framework)
@@ -18,17 +17,8 @@ A single-page, fully responsive concept landing page built to demonstrate front-
 
 ## Tech
 
-HTML5, CSS3 (custom properties, Grid, Flexbox), vanilla JavaScript (ES6+). No dependencies, no build tools — open `index.html` directly in a browser.
+HTML5, CSS3 (custom properties, Grid, Flexbox), vanilla JavaScript (ES6+). No dependencies, no build tools, you can open index.html straight in a browser and everything works.
 
-## Running locally
-
-Clone the repo and open `index.html` in any browser, or serve it with any static file server:
-
-```bash
-python3 -m http.server 8000
-```
-
-Then visit `http://localhost:8000`.
 
 ## Why I built this
 
