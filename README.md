@@ -23,4 +23,4 @@ HTML5, CSS3 (custom properties, Grid, Flexbox), vanilla JavaScript (ES6+). No de
 
 ## Why I built this
 
-Built as a portfolio piece to showcase front-end craft — clean component structure, attention to interaction and motion detail, and accessible, production-style styling.
+Built as a portfolio piece to showcase front-end craft, clean component structure, attention to interaction and motion detail, and accessible, production-style styling.
